@@ -7,7 +7,7 @@ public class PushGitHub {
 		int b = 20;
 		System.out.println(a);
 		System.out.println(b);
-		
+		System.out.println(b);
 	}
 	
 
